@@ -2,7 +2,7 @@
 
 Uma recriação da clássica calculadora do iPhone, desenvolvida como um aplicativo nativo para Android.
 
-![Aqui você pode colocar o link da imagem da sua calculadora](URL_DA_IMAGEM_AQUI)
+![Aqui você pode colocar o link da imagem da sua calculadora](https://github.com/user-attachments/assets/6b5f52e1-c03c-4c65-b403-b03b53e5041d)
 
 ## 📖 Descrição
 
