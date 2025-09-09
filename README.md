@@ -3,14 +3,14 @@
 Uma recriação da clássica calculadora do iPhone, desenvolvida como um aplicativo nativo para Android.
 
 <div align="center">
-  ![Aqui você pode colocar o link da imagem da sua calculadora](https://github.com/user-attachments/assets/50264344-f68e-4f0a-9a85-59b2bf84bfad)
+  ![Calculadora do iPhone](https://github.com/user-attachments/assets/50264344-f68e-4f0a-9a85-59b2bf84bfad)
 </div>
 
 ## 📖 Descrição
 
 Este projeto é um clone da calculadora padrão do iOS, desenvolvido em Kotlin com o Android Studio. O objetivo foi replicar o design limpo e a experiência de usuário do aplicativo original, adaptando-o para a plataforma Android. A interface foi criada para ser intuitiva, responsiva e familiar.
 
-**Link do Projeto:** [https://github.com/PittViic/iphone-calculator.git](https://github.com/PittViic/iphone-calculator.git)
+**Link do Projeto:** [https://github.com/PittViic/iphone-calculator.git](https://github.com/user-attachments/assets/65f2754c-a368-4ff4-bd7f-d200eebbd156)
 
 ## ✨ Funcionalidades
 
